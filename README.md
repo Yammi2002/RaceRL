@@ -5,9 +5,9 @@ A simple Unity project demonstrating the **ML-Agents framework**, where a vehicl
 ## Requirements
 
 - [Unity Hub](https://unity.com/download)  
-- **Unity Editor 2022.3 LTS (6.0)**  
+- **Unity Editor 6.2**  
 - **Python 3.9**  
-- **ML-Agents** (already included in `Assets/ML-Agents`)  
+- **ML-Agents**
 
 ## Setup Instructions
 
