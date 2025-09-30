@@ -35,6 +35,6 @@ If any errors about missing packages appear, install them using pip
 Run mlagents-learn --help again to confirm it works  
 
 ### 4. Train the model
-Start training with:  
-mlagents-learn Assets/ML-Agents/Configs/car_config.yaml --run-id=<id-run>  
+Start training with: mlagents-learn Assets/ML-Agents/Configs/car_config.yaml --run-id=anyidyouwant
+
 Press **Play** in the Unity Editor scene to see the vehicle moving autonomously
