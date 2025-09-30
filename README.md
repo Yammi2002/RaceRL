@@ -26,6 +26,7 @@ python -m venv venv
 Activate the environment:  
 - Windows: venv\Scripts\activate  
 - Linux/Mac: source venv/bin/activate  
+
 Upgrade pip if necessary: python -m pip install --upgrade pip  
 Install ML-Agents: pip install mlagents  
 Install PyTorch: pip install torch torchvision torchaudio  
